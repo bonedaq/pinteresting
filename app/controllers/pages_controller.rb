@@ -7,4 +7,5 @@ class PagesController < ApplicationController
 
   def my_websites
   end
+
 end
